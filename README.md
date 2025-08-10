@@ -1,6 +1,8 @@
 #  Optimisez la gestion des données d'une boutique avec R ou Python
  Optimisation de la gestion des stocks d'une boutique de vin (BottleNeck)
 
+Rapprocher et nettoyer les différentes sources de données (ERP, site web, table de liaison) pour obtenir une base cohérente, puis analyser les ventes et stocks du marchand de vin BottleNeck, en identifiant erreurs et valeurs aberrantes, calculant chiffres d’affaires et marges, et réalisant une analyse de corrélations, afin de fournir un rapport clair pour le comité de direction et préparer un futur projet de data visualisation.
+
 
 <h2>Description</h2>
 
